@@ -1,4 +1,4 @@
-<div align="center"> <img src="Screenshots/main.jpeg" width="500" height="250"> </center> </div>
+<div align="center"> <img src="Screenshots/main.jpg" width="500" height="250"> </center> </div>
 <h3> link-https://employee-salary-predictionapi.herokuapp.com/ </h3>
 
  <i> <h3>  What is Happiness Index?</h3>
@@ -45,13 +45,13 @@ salary prediction model with suitable algorithm using key features required to p
   
   <h2> Screenshots </h2>
   <h3> Input Screen </h3>
-<img src="Screenshots/Screenshot (0).png" /> 
+<img src="Screenshots/Screenshot (1).png" /> 
  
   <br><br>
   
 <h3> Output Screen </h3> 
 
-  <img src="Screenshots/Screenshot (1).png" /> 
+  <img src="Screenshots/Screenshot (2).png" /> 
   
   <br><br>
 
